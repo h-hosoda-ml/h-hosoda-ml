@@ -19,6 +19,6 @@ Here are some ideas to get you started:
     </div>
     <p><b>Language Skills</b></p>
     <div style="margin-bottom:1rem">
-        <img height="50px" src="https://skillicons.dev/icons?i=python,pytorch,docker,github" />
+        <img height="50px" src="https://skillicons.dev/icons?i=python,pytorch,bash,docker,github" />
     </div>
 </p>
